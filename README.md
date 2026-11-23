@@ -1,4 +1,7 @@
 # tiny-chess-01 — a chess engine in under 4 KB of Python
+![make.fun](https://make.fun/badge/tiny-chess-01.svg)
+![rank](https://make.fun/badge/tiny-chess-01/rosirokuma/tiny-chess-01/rank.svg)
+![reward](https://make.fun/badge/tiny-chess-01/rosirokuma/tiny-chess-01/reward.svg)
 
 An entry for the make.fun bounty
 [Build the strongest chess engine in 4 KB of Python](https://make.fun/bounty/tiny-chess-01).
